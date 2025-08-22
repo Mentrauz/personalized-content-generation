@@ -6,7 +6,7 @@
 
 @layer base {
   html {
-    overflow-y: hidden;
+    overflow-y: auto;
   }
   :root {
     --background: 0 0% 100%;
